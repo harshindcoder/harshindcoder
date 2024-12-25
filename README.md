@@ -10,7 +10,7 @@
   <img src="images/tableau.png" alt="Harsh Indoria's Tableau Profile" style="width: 50px; height: 50px; object-fit: cover;">
 </a>
 <a href="https://www.datascienceportfol.io/harshindoria" target="_blank">
-  <img src="images/portfolio_analyst.png" alt="Harsh Indoria's Portfolio" style="width: 50px; height: 50px; object-fit: cover;">
+  <img src="images/pfweb.webp" alt="Harsh Indoria's Portfolio" style="width: 70px; height: 50px; object-fit: cover;">
 </a>
 
 </br>
