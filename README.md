@@ -29,7 +29,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - 🌱 I’m currently working on various Data Science Projects.
 - 📧 How to reach me: harsh.ind.coder@gmail.com
 
-**🛠️ Tools and Technologies**
+**🛠️ Tools and Technologies:**
 
 - 🌐 Languages: Python, R, SQL, MATLAB, C++
 - 📚 Libraries: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn
