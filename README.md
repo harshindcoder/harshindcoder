@@ -31,10 +31,10 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 **🛠️ Tools and Technologies**
 
-- 🌐 Languages: C++, Python, SQL
+- 🌐 Languages: Python, R, SQL, MATLAB, C++
 - 📚 Libraries: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn
 - 📊 Visualization Tools: Tableau
-- 📈 Other Tools: MS Excel
+- 📈 Other Tools: MS Excel, VS Code, Sublime Text, RStudio, MATLAB R2023b
   
 Always excited to explore new tools to enhance workflows and solve real-world problems!
 <!---
