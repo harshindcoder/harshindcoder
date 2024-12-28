@@ -29,6 +29,14 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - 🌱 I’m currently working on various Data Science Projects.
 - 📧 How to reach me: harsh.ind.coder@gmail.com
 
+**🛠️ Tools and Technologies**
+
+- 🌐 Languages: C++, Python, SQL
+- 📚 Libraries: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn
+- 📊 Visualization Tools: Tableau
+- 📈 Other Tools: MS Excel
+  
+Always excited to explore new tools to enhance workflows and solve real-world problems!
 <!---
 harshindcoder/harshindcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
