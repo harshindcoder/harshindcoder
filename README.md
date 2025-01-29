@@ -1,18 +1,20 @@
 ### Hi there, I'm <a href="https://www.datascienceportfol.io/harshindoria" target="_blank" title="Harsh Indoria">Harsh Indoria</a> 👋
 
 <a href="https://www.linkedin.com/in/harsh-indoria/" target="_blank">
-  <img src="images/linkedin.png" alt="Harsh Indoria's LinkedIn Profile" style="width: 50px; height: 50px; object-fit: cover;">
+  <img src="images/linkdin1.png" alt="Harsh Indoria's LinkedIn Profile" style="width: 50px; height: 50px; object-fit: cover;">
 </a>
 <a href="https://www.kaggle.com/harshindoria" target="_blank">
-  <img src="images/kaggle.png" alt="Harsh Indoria's Kaggle Profile" style="width: 50px; height: 50px; object-fit: cover;">
+  <img src="images/kaggle1.png" alt="Harsh Indoria's Kaggle Profile" style="width: 50px; height: 50px; object-fit: cover;">
 </a>
 <a href="https://public.tableau.com/app/profile/harsh.indoria" target="_blank">
-  <img src="images/tableau.png" alt="Harsh Indoria's Tableau Profile" style="width: 50px; height: 50px; object-fit: cover;">
+  <img src="images/tableau1.png" alt="Harsh Indoria's Tableau Profile" style="width: 50px; height: 50px; object-fit: cover;">
 </a>
-<a href="https://www.datascienceportfol.io/harshindoria" target="_blank">
-  <img src="images/pfweb.webp" alt="Harsh Indoria's Portfolio" style="width: 70px; height: 50px; object-fit: cover;">
+<a href="https://medium.com/@harsh_indoria" target="_blank">
+  <img src="images/medium1.png" alt="Harsh Indoria's Medium Profile" style="width: 50px; height: 50px; object-fit: cover;">
 </a>
-
+<a href="https://leetcode.com/u/HARSH_INDORIA" target="_blank">
+  <img src="images/leetcode1.png" alt="Harsh Indoria's Leetcode Profile" style="width: 50px; height: 50px; object-fit: cover;">
+</a>
 </br>
 
 ### Glad to see you here!
