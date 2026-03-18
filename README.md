@@ -10,6 +10,7 @@ Currently working on data pipelines, analytics platforms, and Generative AI syst
 
 Projects
 <!-- projects starts -->
+[AI Novel Assistant](https://github.com/harshindcoder/NovelAssistant)
 
 [Café Data Engineering Platform](https://github.com/harshindcoder/cafe-analytics-infrastructure) 
 
