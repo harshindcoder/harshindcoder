@@ -39,23 +39,17 @@ Research Associate, IIT Roorkee
 <!-- stack starts -->
 
 
-**Languages:**  
-Python | SQL | JavaScript | Bash | HTML | CSS  
+Languages:  Python | SQL | JavaScript | Bash | HTML | CSS  
 
-**Data Engineering & Processing:**  
-Apache Spark | Airflow | dbt | ETL Pipelines | Data Modeling  
+Data Engineering & Processing: Apache Spark | Airflow | dbt | ETL Pipelines | Data Modeling  
 
-**Cloud Platforms:**  
-GCP (BigQuery, GCS) | AWS (S3, Redshift)  
+Cloud Platforms: GCP | AWS  
 
-**Databases & Warehousing:**  
-PostgreSQL | BigQuery | Redshift  
+Databases & Warehousing: MySQL | PostgreSQL | BigQuery | Redshift  
 
-**Visualization & BI:**  
-Tableau | Excel  
+Visualization & BI: Tableau | Superset | Looker | Excel  
 
-**Tools & DevOps:**  
-Docker | Git | GitHub | LaTeX  
+Tools & DevOps: Docker | Git | GitHub | LaTeX  
 <!-- stack ends -->
 
 
