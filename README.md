@@ -2,13 +2,67 @@
 
 ### Applied Mathematician | Data & Systems Enthusiast  
 
-I enjoy building with data from mathematical foundations to real-world systems.  
-Curious about analytics, scalable workflows, and solving meaningful problems.
+I enjoy building with data from mathematical foundations to real-world systems. Curious about analytics, scalable workflows, and solving meaningful problems.
+
+Currently working on data pipelines, analytics platforms, and Generative AI systems. Building projects in **Data Engineering, Analytics, and Cloud**. Read my work on GitHub, explore my projects, or connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-indoria) or [GitHub](https://github.com/harshindcoder).
+
+<table><tr><td valign="top" width="33%">
+
+Projects
+<!-- projects starts -->
+
+[Café Data Engineering Platform](https://github.com/harshindcoder/cafe-analytics-infrastructure) 
+
+[Marketing Analytics Project](https://github.com/harshindcoder/Marketing_Campaign_Assignment) 
 
 
-## 🤝 Connect With Me
-✍️ Practicing problem-solving on [Leetcode](https://leetcode.com/u/HARSH_INDORIA/) </br>
-🤝 Building professional connections on [LinkedIn](https://www.linkedin.com/in/harsh-indoria/)
+<!-- projects ends -->
+
+
+</td><td valign="top" width="34%">
+
+Experience
+<!-- experience starts -->
+
+Independent AI Product Designer  
+
+Data Tech Intern, Kotak Mahindra Bank 
+
+
+Research Associate, IIT Roorkee  
+
+
+<!-- experience ends -->
+
+
+</td><td valign="top" width="33%">
+
+
+<!-- stack starts -->
+
+
+**Languages:**  
+Python | SQL | JavaScript | Bash | HTML | CSS  
+
+**Data Engineering & Processing:**  
+Apache Spark | Airflow | dbt | ETL Pipelines | Data Modeling  
+
+**Cloud Platforms:**  
+GCP (BigQuery, GCS) | AWS (S3, Redshift)  
+
+**Databases & Warehousing:**  
+PostgreSQL | BigQuery | Redshift  
+
+**Visualization & BI:**  
+Tableau | Excel  
+
+**Tools & DevOps:**  
+Docker | Git | GitHub | LaTeX  
+<!-- stack ends -->
+
+
+</td></tr></table>
+
 
 <!---
 harshindcoder/harshindcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
