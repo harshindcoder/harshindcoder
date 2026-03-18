@@ -10,12 +10,13 @@ Currently working on data pipelines, analytics platforms, and Generative AI syst
 
 Projects
 <!-- projects starts -->
-[AI Novel Assistant](https://github.com/harshindcoder/NovelAssistant)
+[AI Assistant](https://github.com/harshindcoder/NovelAssistant)
 
-[Café Data Engineering Platform](https://github.com/harshindcoder/cafe-analytics-infrastructure) 
+[Data Engineering Infra](https://github.com/harshindcoder/cafe-analytics-infrastructure) 
 
 [Marketing Analytics Project](https://github.com/harshindcoder/Marketing_Campaign_Assignment) 
 
+[Competitive Programming](https://github.com/harshindcoder/CSES_Problem_Set)
 
 <!-- projects ends -->
 
